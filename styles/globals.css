@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.brand-images {
+  width: 100px;
+  height: 24px;
+}
+
+.brand-images2 {
+  width: 100px;
+  height: 39px;
+}
